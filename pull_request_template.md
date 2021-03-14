@@ -1,1 +1,3 @@
-- [ ] I've run the tests and it's ok!
+
+### Pull request checklist
+- [ ] My changes are covered by tests and no broken test has been introduced.
